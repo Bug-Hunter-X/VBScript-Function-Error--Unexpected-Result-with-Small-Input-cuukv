@@ -1,0 +1,1 @@
+This repository contains a VBScript function with a subtle error. When the input is less than 10, the function produces an unexpected result due to the implicit return of 0 in the else statement when the value of f is not explicitly assigned.  The solution demonstrates how to correctly handle cases where input is less than 10.
